@@ -22,8 +22,11 @@ D. Brzeminski, S. Das, A. Hook, and C. Ristow “Constraining Vector Dark Matter
 S. Das and A.Hook, “ Black Hole Production of Monopoles in the Early Universe,” arXiv:2109.00039 [hep-ph] (DOI:
 10.1007/JHEP12(2021)145).  
 
-S. Das and A.Hook, “ Non-linearly realized discrete symmetries,” arXiv:2006.10767 [hep-ph] (DOI: 10.1007/JHEP10(2020)071).
+S. Das and A.Hook, “ Non-linearly realized discrete symmetries,” arXiv:2006.10767 [hep-ph] (DOI: 10.1007/JHEP10(2020)071).  
+
 S. Das, S.Gangopadhyay and D. Ghorai, “ Viscosity to entropy density ratio for non-extremal Gauss-Bonnet black holes coupled to
 Born-Infeld electrodynamics,” arXiv:1704.03284 [hep-th] (DOI: 10.1140/epjc/s10052-017-5187-9).  
+
+S. Barmase, S. Das, S. Mukhopadhyay, “ Wavelet Transform-Based Analysis of QRS complex in ECG Signals ,” arXiv:1311.6460 [cs.CE]
 
 
