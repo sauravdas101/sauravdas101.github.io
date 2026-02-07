@@ -4,6 +4,9 @@
 PhD in Physics GPA : 4.00/4.00
 ### Indian Institute of Science Education and Research Kolkata August 2012 - May 2017
 BS-MS Dual Degree in Physics GPA : 9.66/10.00
+
+# ML Projects
+
 # Publications
 S. Das F. Ferrer, “Gravitational waves from the Axiverse ,” arXiv:2502.12153 [hep-ph].  
 
@@ -23,4 +26,4 @@ S. Das and A.Hook, “ Non-linearly realized discrete symmetries,” arXiv:2006.
 S. Das, S.Gangopadhyay and D. Ghorai, “ Viscosity to entropy density ratio for non-extremal Gauss-Bonnet black holes coupled to
 Born-Infeld electrodynamics,” arXiv:1704.03284 [hep-th] (DOI: 10.1140/epjc/s10052-017-5187-9).  
 
-# ML Projects
+
